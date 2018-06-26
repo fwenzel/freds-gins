@@ -16,7 +16,7 @@
 title: Mr Fred's Gins
 email: fred@foo.sx
 description: >- # this means to ignore newlines until "baseurl:"
-  Mr Fred's modest gin collection
+  A modest collection of the finest thing juniper berries can become when they grow up.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
