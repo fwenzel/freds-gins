@@ -1,8 +1,8 @@
 # Mr Fred's Gins
 
 by `<fred@foo.sx>`
-https://gins.pw
-https://twitter.com/mrfredsgins
+* https://gins.pw
+* https://twitter.com/mrfredsgins
 
 A modest collection of the finest thing juniper berries can become when they grow up.
 
