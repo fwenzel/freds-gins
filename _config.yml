@@ -1,5 +1,5 @@
 # Site settings
-title: Mr Fred's Gins
+title: Mr Fred's Gins 🍸
 description: >- # this means to ignore newlines until "baseurl:"
   A modest collection of the finest thing juniper berries can become when they grow up.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -8,14 +8,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author
 author:
   name: Mr Fred
-  url: https://gins.foo.sx
-  email: fred@foo.sx
+  url: https://gins.pw
+  email: mrfred@gins.pw
 twitter_username: fwenzel
 github_username:  fwenzel
 
 # Assets
 sass:
-  sass_dir:     _sass
+  sass_dir: _sass
   style: compressed
 
 # Build settings
