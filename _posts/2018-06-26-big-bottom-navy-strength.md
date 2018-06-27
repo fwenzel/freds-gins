@@ -4,7 +4,7 @@ title:  "Big Bottom Navy Strength"
 date:   2018-06-26 12:00:00Z
 categories: gin
 ---
-Let's start with one of my local favorites. [Big Bottom](http://www.bigbottomdistilling.com/) is a small-batch distillery in Hillsboro, Oregon. They have several gins, this one, called simply "Navy Strength", is the strongest, at a solid 57% ABV (114 proof). 
+Let's start with one of my local favorites. [Big Bottom](http://www.bigbottomdistilling.com/) is a small-batch distillery in Hillsboro, Oregon. They have several gins, this one, called simply "Navy Strength", is the strongest, at a solid 57% ABV (114 proof).
 
 ![Big Bottom Navy Strength Gin](/pics/big-bottom-navy-1.jpg)
 
@@ -24,4 +24,4 @@ I suggest you drink it as a wet-ish martini, up. Feel free to be generous on the
 * 3 oz Navy Strength Gin
 * 3/4 oz extra dry vermouth
 
-Stir over ice. Serve with a smile.
+Stir over ice. Serve with the toothy smile of an 18th century sailor.
