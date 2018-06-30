@@ -1,6 +1,6 @@
 # Mr Fred's Gins
 
-by `<fred@foo.sx>`
+by `<mrfred@gins.pw>`
 * https://gins.pw
 * https://twitter.com/mrfredsgins
 
