@@ -25,3 +25,7 @@ I suggest you drink it as a wet-ish martini, up. Feel free to be generous on the
 * 3/4 oz extra dry vermouth
 
 Stir over ice. Serve with the toothy smile of an 18th century sailor.
+
+## Verdict
+![4 stars](/assets/star4.png)
+Good stuff. At this strength, probably a good litmus test if you actually like gin vs you only think you do.

@@ -31,3 +31,7 @@ I present to you:
 * orange bitters
 
 Fill a cocktail shaker with ice. Pour in gin and lillet, and add a couple shakes of orange bitters. Strain into a chilled martini glass and garnish with an orange twist, if you like. Santé!
+
+## Verdict
+![3 stars](/assets/star3.png)
+Not offensive enough for me to hide it in the back of the cabinet, but also the kind that I won't be rebuying when it's empty. Just sort of okay.
