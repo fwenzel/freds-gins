@@ -3,7 +3,7 @@ title: Mr Fred's Gins 🍸
 description: >- # this means to ignore newlines until "baseurl:"
   A modest collection of the finest thing juniper berries can become when they grow up.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gins.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author:
