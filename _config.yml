@@ -8,7 +8,7 @@ url: "https://gins.pw" # the base hostname & protocol for your site, e.g. http:/
 # Author
 author:
   name: Mr Fred
-  url: https://gins.pw
+  url: https://foo.sx/@fred
   email: mrfred@gins.pw
 twitter_username: mrfredsgins
 github_username:  fwenzel
