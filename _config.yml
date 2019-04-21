@@ -51,3 +51,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md
+  - new_post.rb
